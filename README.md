@@ -96,12 +96,16 @@ Proje çalıştıktan sonra http://localhost:5000 adresinden erişebilirsin. �
 3️- Konuşma bittikten sonra transkripti ekrana ve web arayüzüne basar.
 4️- Diğer ses türleri (gürültü, müzik vs.) için de algılama yapar ve web arayüzüne basar.
 
-🤝 Katkıda Bulunma
+### 🤝 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz:
 
 Fork yapın 🍴
+
 Pull Request gönderin 📌
+
 Sorularınız veya önerileriniz için Issue açabilirsiniz 📝
+
 📜 Lisans
 Bu proje MIT lisansı altında yayımlanmıştır.
+
 Detaylar için LICENSE dosyasına bakabilirsiniz.
