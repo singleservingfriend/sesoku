@@ -40,10 +40,10 @@ python app.py
 Çalıştırdıktan sonra, aşağıdaki adres üzerinden erişebilirsiniz:
 🔗 http://localhost:5000
 
-1️⃣ Proje çalıştırıldığında mikrofon dinlemeye başlar.
-2️⃣ Konuşma algılandığında sessizlik bitene kadar bekler.
-3️⃣ Konuşma bittikten sonra transkripti ekrana ve web arayüzüne basar.
-4️⃣ Diğer ses türleri (gürültü, müzik vs.) için de algılama yapar.
+1️- Proje çalıştırıldığında mikrofon dinlemeye başlar.
+2️- Konuşma algılandığında sessizlik bitene kadar bekler.
+3️- Konuşma bittikten sonra transkripti ekrana ve web arayüzüne basar.
+4️- Diğer ses türleri (gürültü, müzik vs.) için de algılama yapar ve web arayüzüne basar.
 
 📝 Bağımlılıklar
 requirements.txt dosyasında yer alan bağımlılıklar:
