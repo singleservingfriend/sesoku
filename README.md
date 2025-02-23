@@ -96,6 +96,9 @@ Proje çalıştıktan sonra http://localhost:5000 adresinden erişebilirsin. �
 3️- Konuşma bittikten sonra transkripti ekrana ve web arayüzüne basar.
 4️- Diğer ses türleri (gürültü, müzik vs.) için de algılama yapar ve web arayüzüne basar.
 
+### 💻 İleriye Dönük Geliştirmeler
+Ayarlar sayfası eklenerek, (örneğin bir telefon veya akıllı saat cihazında kullanılıyorsa) kullanıcıya kendi belirleyeceği cümlelerde titreşim almasını sağlayacak seçenek eklenecek. Aynı zamanda etraf sesleri listesi gösterilerek titreşim istediği sesler için işaretleme seçeneği verilecek.
+
 ### 🤝 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz:
 
