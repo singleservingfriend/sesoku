@@ -1,3 +1,5 @@
+sesoku
+
 # 🗣️ Speech & Sound Detector
 
 Bu proje, **Flask** ve **TensorFlow YAMNet** kullanarak **canlı ses analizi** yapar.  
