@@ -22,3 +22,62 @@ Projeyi çalıştırmadan önce aşağıdaki bağımlılıkları yükleyin.
 **Python ve Pip Gereksinimleri**
 ```bash
 sudo apt update && sudo apt install python3 python3-pip -y  # (Linux için)
+
+FFmpeg Gereksinimi
+(Eğer ses kaydı ile ilgili hata alırsanız FFmpeg yükleyin.)
+
+bash
+Kopyala
+Düzenle
+sudo apt install ffmpeg  # Linux
+brew install ffmpeg  # macOS
+choco install ffmpeg  # Windows (Chocolatey kullanıyorsanız)
+
+2️⃣ Bağımlılıkları Kur
+Python bağımlılıklarını yükleyin:
+
+bash
+Kopyala
+Düzenle
+pip install -r requirements.txt
+
+3️⃣ Projeyi Çalıştır
+Aşağıdaki komutları kullanarak projeyi başlatın:
+
+bash
+Kopyala
+Düzenle
+python app.py
+Çalıştırdıktan sonra, aşağıdaki adres üzerinden erişebilirsiniz:
+🔗 http://localhost:5000
+
+1️⃣ Proje çalıştırıldığında mikrofon dinlemeye başlar.
+2️⃣ Konuşma algılandığında sessizlik bitene kadar bekler.
+3️⃣ Konuşma bittikten sonra transkripti ekrana ve web arayüzüne basar.
+4️⃣ Diğer ses türleri (gürültü, müzik vs.) için de algılama yapar.
+
+📝 Bağımlılıklar
+requirements.txt dosyasında yer alan bağımlılıklar:
+
+txt
+Kopyala
+Düzenle
+flask==2.2.3
+flask-socketio==5.3.3
+numpy==1.24.3
+tensorflow==2.12.0
+tensorflow-hub==0.13.0
+requests==2.31.0
+sounddevice==0.4.6
+speechrecognition==3.8.1
+pyaudio==0.2.13
+🤝 Katkıda Bulunma
+Projeye katkıda bulunmak isterseniz:
+
+Fork yapın 🍴
+Pull Request gönderin 📌
+Sorularınız veya önerileriniz için Issue açabilirsiniz 📝
+📜 Lisans
+Bu proje MIT lisansı altında yayımlanmıştır.
+Detaylar için LICENSE dosyasına bakabilirsiniz.
+
