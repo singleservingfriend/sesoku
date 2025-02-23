@@ -13,7 +13,7 @@ WebSocket üzerinden verileri gerçek zamanlı olarak bir arayüze gönderir.
 
 ## 🛠️ Kurulum
 
-### 1️⃣ **Gereksinimler**
+**Gereksinimler**
 Projeyi çalıştırmadan önce aşağıdaki bağımlılıkları yükleyin.
 
 **Python ve Pip Gereksinimleri**
@@ -27,7 +27,7 @@ sudo apt install ffmpeg  # Linux
 brew install ffmpeg  # macOS
 choco install ffmpeg  # Windows (Chocolatey kullanıyorsanız)
 ```
-Windows için Kurulum Adımları
+### Windows için Kurulum Adımları
 1️⃣ Gerekli Bağımlılıkları Yükle
 Öncelikle, Python ve pip yüklü olduğundan emin olmalısın. Eğer yüklü değilse:
 
