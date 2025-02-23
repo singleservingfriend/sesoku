@@ -18,7 +18,7 @@ Projeyi çalıştırmadan önce aşağıdaki bağımlılıkları yükleyin.
 
 **Python ve Pip Gereksinimleri**
 ```bash
-sudo apt update && sudo apt install python3 python3-pip -y  (Linux için)
+sudo apt update && sudo apt install python3 python3-pip -y # (Linux için)
 ```
 FFmpeg Gereksinimi
 (Eğer ses kaydı ile ilgili hata alırsanız FFmpeg yükleyin.)
