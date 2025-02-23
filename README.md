@@ -28,7 +28,7 @@ brew install ffmpeg  # macOS
 choco install ffmpeg  # Windows (Chocolatey kullanıyorsanız)
 ```
 Windows için Kurulum Adımları
-**Gerekli Bağımlılıkları Yükle**
+1️⃣ Gerekli Bağımlılıkları Yükle
 Öncelikle, Python ve pip yüklü olduğundan emin olmalısın. Eğer yüklü değilse:
 
 Python'un resmi sitesinden Python 3.9+ sürümünü indir ve yükle.
