@@ -28,7 +28,7 @@ brew install ffmpeg  # macOS
 choco install ffmpeg  # Windows (Chocolatey kullanıyorsanız)
 ```
 ### Windows için Kurulum Adımları
-1️⃣ Gerekli Bağımlılıkları Yükle
+## 1️⃣ Gerekli Bağımlılıkları Yükle
 Öncelikle, Python ve pip yüklü olduğundan emin olmalısın. Eğer yüklü değilse:
 
 Python'un resmi sitesinden Python 3.9+ sürümünü indir ve yükle.
@@ -42,7 +42,7 @@ Eğer pip eksikse:
 ```bash
 python -m ensurepip --default-pip
 ```
-2️⃣ FFmpeg Yükle
+## 2️⃣ FFmpeg Yükle
 FFmpeg'in sistemde olup olmadığını kontrol et:
 ```bash
 ffmpeg -version
@@ -56,7 +56,7 @@ FFmpeg'in resmi sitesine git.
 Windows sürümünü indir ve sistem PATH'ine ekle.
 
 
-3️⃣ Projeyi Klonla ve Bağımlılıkları Kur
+## 3️⃣ Projeyi Klonla ve Bağımlılıkları Kur
 Eğer Git yüklü değilse, önce Git’i buradan indir ve kur.
 
 Sonra PowerShell veya Komut İstemi'nde şu komutları çalıştır:
