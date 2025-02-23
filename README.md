@@ -10,7 +10,6 @@ WebSocket üzerinden verileri gerçek zamanlı olarak bir arayüze gönderir.
 ✅ **Müzik, gürültü, sessizlik gibi diğer sesleri de algılama**  
 ✅ **Flask-SocketIO ile WebSocket üzerinden anlık veri gönderme**  
 
----
 
 ## 🛠️ Kurulum
 
