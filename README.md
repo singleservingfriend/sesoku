@@ -37,9 +37,9 @@ pip install -r requirements.txt
 Aşağıdaki komutları kullanarak projeyi başlatın:
 ```bash
 python app.py
+```
 Çalıştırdıktan sonra, aşağıdaki adres üzerinden erişebilirsiniz:
 🔗 http://localhost:5000
-```
 
 1️⃣ Proje çalıştırıldığında mikrofon dinlemeye başlar.
 2️⃣ Konuşma algılandığında sessizlik bitene kadar bekler.
